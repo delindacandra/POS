@@ -9,7 +9,7 @@
         <h4>Menu:</h4>
         <ul>
             <li><a href="http://localhost/POS/public/category">Halaman Product</a></li>
-            <li><a href="">Halaman User</a></li>
+            <li><a href="http://localhost/POS/public/user/{id}/name/{name}">Halaman User</a></li>
         </ul>
     </body>
 </html>
