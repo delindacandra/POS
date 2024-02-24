@@ -8,7 +8,7 @@
         <h3 style="text-align: center">Aplikasi ini adalah aplikasi Point Of Sales yang digunakan untuk membantu penjualan</h3>
         <h4>Menu:</h4>
         <ul>
-            <li><a href="">Halaman Product</a></li>
+            <li><a href="http://localhost/POS/public/category">Halaman Product</a></li>
             <li><a href="">Halaman User</a></li>
         </ul>
     </body>
